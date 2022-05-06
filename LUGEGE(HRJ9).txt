@@ -1,0 +1,4 @@
+INFO HARJUTUS 9 KOHTA
+
+HTML mäng ei läinud tööle
+.exe läks tööle, aga seda ei saanud githubi panna kuna fail oli liiga suur.
